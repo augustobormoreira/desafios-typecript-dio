@@ -1,0 +1,27 @@
+{
+  "name": "desafios-typecript-dio",
+  "version": "1.0.0",
+  "description": "Solved exercises from the Typescrit class ministrated by DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustobormoreira/desafios-typecript-dio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustobormoreira/desafios-typecript-dio/issues"
+  },
+  "homepage": "https://github.com/augustobormoreira/desafios-typecript-dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
